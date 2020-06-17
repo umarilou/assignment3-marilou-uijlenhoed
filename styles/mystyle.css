@@ -1,0 +1,23 @@
+body{
+	font-family: Montserrat;
+	color: #1a1b4b;
+	background-color: #c2ffc2;
+	text-align: center;
+}
+
+#weather {
+	position: absolute;
+	padding: 6px;
+	text-align: center;
+	margin: auto;
+	left: 15%;
+	width: 70%;
+	font-size: 60px; 
+}
+
+#image{
+	position: absolute;
+	top: 30%;
+	left: 75%;
+
+}
